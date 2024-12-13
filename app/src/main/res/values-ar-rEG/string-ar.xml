@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">ShopVerse</string>
+        <string name="sign_in">تسجيل الدخول</string>
+        <string name="sign_up">إنشاء حساب</string>
+        <string name="create_account">إنشاء حساب</string>
+        <string name="name">الاسم</string>
+        <string name="email">البريد الإلكتروني</string>
+        <string name="email_placeholder">Email@example.com</string>
+        <string name="pass">كلمة المرور</string>
+        <string name="confirm_pass">تأكيد كلمة المرور</string>
+        <string name="reset_password">إعادة تعيين كلمة المرور</string>
+        <string name="verify_code">التحقق من الكود</string>
+        <string name="or">أو</string>
+        <string name="dont_have_account">ليس لديك حساب؟</string>
+        <string name="already_have_account">لديك حساب بالفعل؟</string>
+        <string name="forgot_password">هل نسيت كلمة المرور؟</string>
+        <string name="login_success">تم تسجيل الدخول بنجاح</string>
+        <string name="phone_number">رقم الهاتف</string>
+        <string name="verify">تأكيد</string>
+        <string name="create_new_password">إنشاء كلمة مرور جديدة</string>
+        <string name="set_new_password">تعيين كلمة مرور جديدة</string>
+        <string name="pass_change">يجب أن تكون كلمة المرور الجديدة مختلفة عن \n كلمة المرور المستخدمة سابقاً</string>
+        <string name="search">بحث</string>
+        <string name="favorite">قائمتي المفضلة</string>
+        <string name="cart">عربة التسوق</string>
+        <string name="profile">الملف الشخصي</string>
+        <string name="order">طلباتي</string>
+        <string name="setting">الإعدادات</string>
+        <string name="logout">تسجيل الخروج</string>
+        <string name="view_all">عرض الكل</string>
+        <string name="hot_sale">تخفيضات ساخنة</string>
+        <string name="description">الوصف</string>
+        <string name="read_more">اقرأ المزيد</string>
+        <string name="add_to_cart">أضف إلى العربة</string>
+        <string name="total_price">السعر الإجمالي</string>
+        <string name="subTotal">الإجمالي الفرعي</string>
+        <string name="delivery_chagrge">رسوم التوصيل</string>
+        <string name="discount">الخصم</string>
+        <string name="total">الإجمالي</string>
+        <string name="proceed_to_checkout">إتمام الشراء</string>
+        <string name="best_offer">أفضل العروض لك</string>
+        <string name="recent">الأحدث</string>
+        <string name="result">نتيجة لـ</string>
+        <string name="found">تم العثور على</string>
+        <string name="active">نشط</string>
+        <string name="complete">مكتمل</string>
+        <string name="cancel">ملغى</string>
+        <string name="re_order">إعادة الطلب</string>
+        <string name="leave_review">اترك مراجعة</string>
+        <string name="track_order">تتبع الطلب</string>
+        <string name="delete_account">حذف الحساب</string>
+        <string name="new_collection">مجموعة جديدة</string>
+        <string name="category">التصنيفات</string>
+        <string name="coupon"> خصومات</string>
+
+
+        <string name="discount_50">خصم 50% على \nأول عملية شراء</string>
+        <string name="proceded_to_checkout">المتابعة إلى الدفع</string>
+        <string name="checkout">الدفع</string>
+        <string name="remove">إزالة</string>
+        <string name="remove_from_cart">إزالة من العربة</string>
+        <string name="hi_welcome_back">أهلاً! مرحباً بعودتك، لقد اشتقنا إليك</string>
+        <string name="enter_code">الرجاء إدخال الرمز الذي أرسلناه للتو إلى البريد الإلكتروني</string>
+        <string name="plase_enter_your_email">الرجاء إدخال بريدك الإلكتروني لإعادة تعيين كلمة المرور تلك</string>
+        <string name="fill_your_info">أدخل بياناتك أدناه أو سجل \n  بحسابك الاجتماعي.</string>
+
+
+</resources>

@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">ShopVerse</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="email_placeholder">Email@example.com</string>
+    <string name="pass">Password</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="create_new_password">Create New Password</string>
+    <string name="or">Or</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login_success">Login Success</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="set_new_password">set new password</string>
+    <string name="verify">Verify</string>
+    <string name="search">Search</string>
+    <string name="favorite">My Wishlist</string>
+    <string name="cart">My Cart</string>
+    <string name="profile">Update Profile</string>
+    <string name="order">My Order</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Log Out</string>
+    <string name="view_all">View All</string>
+    <string name="hot_sale">Hot Sale</string>
+    <string name="description">Description</string>
+    <string name="read_more">Read More</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="total_price">Total Price</string>
+    <string name="subTotal">Subtotal</string>
+    <string name="delivery_chagrge">Delivery charge</string>
+    <string name="discount">Discount</string>
+    <string name="total">Total </string>
+    <string name="proceed_to_checkout">Proceed To Checkout </string>
+    <string name="best_offer">Best Offers for you</string>
+    <string name="recent">Recent</string>
+    <string name="result">Result for</string>
+    <string name="found">found</string>
+    <string name="active">Active</string>
+    <string name="complete">complete</string>
+    <string name="cancel">Cancel</string>
+    <string name="re_order">Re-Order</string>
+    <string name="leave_review">Leave Review</string>
+    <string name="track_order">Track Order</string>
+    <string name="category">Categories</string>
+    <string name="new_collection">New Collection</string>
+    <string name="discount_50">Discount 50% for  \nthe first transaction</string>
+
+    <string name="delete_account">Delete Account</string>
+    <string name="proceded_to_checkout">Proceed To Checkout</string>
+    <string name="checkout">Checkout</string>
+    <string name="remove">Remove</string>
+    <string name="remove_from_cart">Remove From Cart?</string>
+    <string name="hi_welcome_back">Hi! Welcome back, you`ve been missed</string>
+    <string name="enter_code">Please enter the code we just sent to email</string>
+    <string name="pass_change">Your New Password Must be Different to \n Previously Used Password</string>
+    <string name="plase_enter_your_email">please enter your email to reset that password</string>
+    <string name="fill_your_info">Fill your information below Or register \n with your social account.</string>
+    <string name="coupon">Coupons</string>
+
+
+</resources>
